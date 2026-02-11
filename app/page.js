@@ -1,21 +1,3 @@
-// import About from "./_components/About";
-// import Introduction from "./_components/Introduction";
-
-// const page = () => {
-//   return (
-//     <div className="text-white flex flex-col lg:flex-row justify-around items-start mt-4 gap-4">
-//       <div className="w-full lg:w-auto lg:sticky lg:top-4 lg:self-start">
-//         <Introduction />
-//       </div>
-//       <div className="w-full lg:w-auto lg:overflow-y-auto">
-//         <About />
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default page;
-
 import About from "./_components/About";
 import ContactForm from "./_components/Contact";
 import Experience from "./_components/Experience";
