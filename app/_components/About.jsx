@@ -12,7 +12,7 @@ const About = () => {
       {/* Content */}
       <div className="space-y-4 text-gray-300 leading-relaxed">
         <p>
-          Hi! I&apos;m{" "}
+          Hi! I am{" "}
           <span className="text-white font-semibold">Adeyekun Oluwafisayo</span>
           , a passionate Frontend Developer with{" "}
           <span className="text-blue-400 font-semibold">
@@ -47,8 +47,8 @@ const About = () => {
 
         <div className="pt-4 border-l-4 border-blue-500 pl-4 bg-blue-500/5 rounded-r">
           <p className="text-gray-200 italic font-medium">
-            If you&apos;re looking for clean code, thoughtful UI, and great user
-            experiences, I&apos;m always open to exciting collaborations and
+            If you are looking for clean code, thoughtful UI, and great user
+            experiences, I am always open to exciting collaborations and
             impactful projects.
           </p>
         </div>
