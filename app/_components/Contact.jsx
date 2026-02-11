@@ -58,7 +58,8 @@ const ContactForm = () => {
         </h1>
         <div className="w-16 h-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full"></div>
         <p className="text-gray-400 text-sm md:text-base pt-2">
-          Have a project in mind? Les work together to bring your ideas to life.
+          Have a project in mind? Let&apos;s work together to bring your ideas
+          to life.
         </p>
       </div>
 
